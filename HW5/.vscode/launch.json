@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/yen/Desktop/顏浩昀/大學課程/Computer Architecture/HW/HW5",
+      "program": "/Users/yen/Desktop/顏浩昀/大學課程/Computer Architecture/HW/HW5/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
